@@ -1,12 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
 
 body{
-    color:black;
-    background-color:green;
+    color:darkblue;
+    background-color:azure;
     font-family: "honk"
 }
 
 .João{
-    color:black;
-    background-color:green;
+    color:darkblue;
+    background-color:azure;
+}
+
+header{
+    color:darkblue;
+    background-color: azure;
+}
+
+footer{
+    color:darkblue;
+    background-color:azure;
 }
